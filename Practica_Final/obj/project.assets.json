@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\2Repaso\\Practica_Final\\Practica_Final.csproj",
+      "projectUniqueName": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\prueba_repositorio\\Practica_Final\\Practica_Final.csproj",
       "projectName": "Practica_Final",
-      "projectPath": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\2Repaso\\Practica_Final\\Practica_Final.csproj",
+      "projectPath": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\prueba_repositorio\\Practica_Final\\Practica_Final.csproj",
       "packagesPath": "C:\\Users\\GADO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\2Repaso\\Practica_Final\\obj\\",
+      "outputPath": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\prueba_repositorio\\Practica_Final\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
